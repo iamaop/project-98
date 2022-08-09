@@ -1,0 +1,36 @@
+h1{
+    font-size: 50px;
+}
+.start_button{
+    font-size:20px;
+}
+#camera{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#resultshow{
+    width:360px;
+    height: 600px;
+    border:1px solid grey;
+}
+#pp{
+    color: red;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+      border: 8px ridge steelblue;
+}
+#img1{
+height: 200px;
+}
+#img2{
+    height: 200px;
+    width: 360px;
+}
+#img3{
+    height: 200px;
+    width: 360px;
+}
